@@ -50,16 +50,7 @@ One standard is the constraint this week. Find it like this:
 
 State it as your read, not a decree: "From what you've given me, the bottleneck is X, because Y." The founder has context you do not, and they can push back.
 
-## Step 4: The attack plan
-
-Naming the bottleneck is the cheap half. The plan is 2 or 3 moves against that one bottleneck, and every move must pass two filters:
-
-- **Fewest assumptions, fastest signal.** Reject the indirect, respectable version (start a content engine, build a community, "set up infrastructure for" anything). Demand the direct version: DM 50 people who fit the case study today, call the last 5 lost deals and ask what happened, get the champion on the phone this week. If your first draft of a move is the respectable one, rewrite it.
-- **Doable this week.** Each move should be startable today and show signal within the week. If a move is long, multi-part, or infrastructure-shaped, shrink it until it fits in a week.
-
-Order the moves: the first one to do, then the next more direct move if the first stalls. Then handle the rest of their plate in one line each: "Real work, but not the bottleneck. Park it." Never call their other work wasteful. It is just not where output comes from right now.
-
-## Step 5: The debug line
+## Step 4: The debug line
 
 If last week's scorecard is available (in their memory or pasted), close the loop in one line: did the failing standard move toward its bar?
 
@@ -69,7 +60,7 @@ If last week's scorecard is available (in their memory or pasted), close the loo
 
 This comparison is where the compounding comes from. Always close it when the data exists.
 
-## Step 6: Log it
+## Step 5: Log it
 
 Offer, once and lightly, to append a dated scorecard row to their tracking (their own file or the scaffolded scorecard from `setup.md`). Append, never overwrite; the dated history is what makes the debug line possible next week. If they have no tracking at all and this is their first review, offer `setup.md` in one sentence. Do not nag either way.
 
