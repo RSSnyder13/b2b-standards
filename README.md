@@ -2,13 +2,15 @@
 
 A free, open-source Claude skill that grades your startup against [*Rob Snyder's*](https://www.linkedin.com/in/rsnyder1) **Six B2B Standards**: the minimum bar for a fast-growing sales-led B2B startup, defined so you cannot weasel out of it.
 
-There are two kinds of early-stage B2B startup: the one with a real shot at hypergrowth, and the one that is dying and does not know it, because it looks exactly like the first. Real revenue and Fortune 500 logos do not tell you which one you are. The standards do. This skill runs the weekly ritual where you stare reality in the face: pass/fail on all six, your actual number next to the bar, the one bottleneck to attack, and 2-3 direct moves for next week.
+There are two kinds of early-stage B2B startup: the one with a real shot at hypergrowth, and the one that is dying and does not know it. Without the standard, you can't tell which is you. 
+
+This skill runs the weekly ritual where you stare reality in the face.
 
 ## The six standards (v1.0)
 
 You must hit **all six**. Five of six means you have not met the standard. Bars vary by initial contract size (Big $100k+ / Moderate $25k-99k / Small sub-$25k):
 
-1. **Repeatable Case Study** — one situation where it would be weird if that person did anything other than buy from you right now
+1. **Repeatable Case Study** — one case study where it would be weird if that person did anything other than buy from you right now
 2. **Pipeline** — 3 / 10 / 15 first meetings per week, per person selling
 3. **Pull** — 80% of first meetings have pull (the buyer initiates a trying-to-buy action)
 4. **Close Rate** — 50% of pull meetings close
@@ -19,7 +21,7 @@ Read the full essay on [The Physics of Startups](https://thephysicsofstartups.su
 
 ## What this skill does
 
-- **Weekly review (the flagship).** Say "run my weekly review" and paste your numbers (or point it at wherever you track them). You get an unweaselable scorecard, the bottleneck, an attack plan, and a week-over-week debug line. Example output:
+- **Weekly review.** Say "run my weekly review" and paste your numbers (or point it at wherever you track them). Example output:
 
   > 1. Repeatable case study: hypothesis, has not repeated. **MISS**
   > 2. Pipeline: 4 first meetings/week vs 10. **MISS**
@@ -28,7 +30,7 @@ Read the full essay on [The Physics of Startups](https://thephysicsofstartups.su
   > ...
   > **Bottleneck:** Standard 1. Your case study has not repeated, so pipeline into it is a faster way to waste meetings...
 
-- **Sales call reviews.** Paste any call transcript and get the full four-layer PULL review (did they pull, was PULL visible, how did you perform, what to change). This is the same analysis as Rob's free [call-review skill](https://github.com/RSSnyder13/rob-snyder-reviews-your-sales-calls), vendored here, and each verdict feeds Standard 3 in your scorecard.
+- **Sales call reviews.** Paste any call transcript and get the full four-layer PULL review (did they pull, was PULL visible, how did you perform, what to change). This is the same analysis as Rob's free [call-review skill](https://github.com/RSSnyder13/rob-snyder-reviews-your-sales-calls), and each verdict feeds Standard 3 in your scorecard.
 
 - **Lightweight tracking, your way.** Three modes, all first-class:
   1. **Just paste** — transcripts and numbers, zero setup, nothing stored.
