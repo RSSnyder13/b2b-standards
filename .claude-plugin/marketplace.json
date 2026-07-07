@@ -1,0 +1,11 @@
+{
+  "name": "b2b-standards",
+  "owner": { "name": "Rob Snyder" },
+  "plugins": [
+    {
+      "name": "b2b-standards",
+      "source": "./",
+      "description": "Rob Snyder's Six B2B Standards: a weekly pass/fail scorecard for sales-led B2B startups, plus PULL-framework sales call reviews."
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+{
+  "name": "b2b-standards",
+  "version": "1.0.0",
+  "description": "Rob Snyder's Six B2B Standards as a skill: the minimum bar for a fast-growing sales-led B2B startup (repeatable case study, pipeline, pull, close rate, cycle time, success rate). Runs a weekly pass/fail scorecard against the standards, finds your bottleneck, and reviews your sales calls with the PULL framework.",
+  "author": { "name": "Rob Snyder" },
+  "repository": "https://github.com/RSSnyder13/b2b-standards",
+  "license": "MIT"
+}
