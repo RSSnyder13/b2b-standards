@@ -12,7 +12,7 @@ You must hit **all six**. Five of six means you have not met the standard. Bars 
 
 1. **Repeatable Case Study** — one case study where it would be weird if that person did anything other than buy from you right now
 2. **Pipeline** — 3 / 10 / 15 first meetings per week, per person selling
-3. **Pull** — 80% of first meetings have pull (the buyer initiates a trying-to-buy action)
+3. **Pull** — 60% of first meetings have pull (the buyer initiates a trying-to-buy action)
 4. **Close Rate** — 50% of pull meetings close
 5. **Cycle Time** — 90 / 30 / 14 days from meeting-with-pull to signed
 6. **Success Rate** — 95% of new customers hit X (your leading indicator of retention) within 1 month
@@ -25,7 +25,7 @@ Read the full essay on [The Physics of Startups](https://thephysicsofstartups.su
 
   > 1. Repeatable case study: hypothesis, has not repeated. **MISS**
   > 2. Pipeline: 4 first meetings/week vs 10. **MISS**
-  > 3. Pull: 1 of 4 meetings pulled (25%) vs 80%. **MISS**
+  > 3. Pull: 1 of 4 meetings pulled (25%) vs 60%. **MISS**
   > 4. Close rate: UNKNOWN, and that is the finding.
   > ...
   > **Bottleneck:** Standard 1. Your case study has not repeated, so pipeline into it is a faster way to waste meetings...

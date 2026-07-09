@@ -62,7 +62,7 @@ When customers have PULL, they try to buy. "Pulling" means "trying to buy." The 
 
 The full definition of a pull action (and what does not count, like seller-prompted next steps) is in `pull-framework.md`. Grade individual calls with `call-review.md`.
 
-**Bar:** **80% of first meetings have pull.** Meeting with people who do not have pull is a bug in your GTM and a waste of your time. Once you have a repeatable case study, your first sales call is about disqualifying people who do not fit it. Or rather, having them convince you they fit it.
+**Bar:** **60% of first meetings have pull.** Meeting with people who do not have pull is a bug in your GTM and a waste of your time. Once you have a repeatable case study, your first sales call is about disqualifying people who do not fit it. Or rather, having them convince you they fit it.
 
 ### 4. Close Rate
 

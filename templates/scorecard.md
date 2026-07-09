@@ -45,7 +45,7 @@ Copy this block each week and fill it in. PASS or MISS on each, no softening.
 |---|----------|----------------|-----|---------|
 | 1 | Repeatable case study | [status] | passes weird-not-to-buy | [PASS/MISS] |
 | 2 | Pipeline | [n] first meetings | 3 / 10 / 15 for my band | [PASS/MISS] |
-| 3 | Pull | [n] of [n] pulled ([x]%) | 80% | [PASS/MISS] |
+| 3 | Pull | [n] of [n] pulled ([x]%) | 60% | [PASS/MISS] |
 | 4 | Close rate | [n] of [n] pull meetings closed ([x]%) | 50% | [PASS/MISS] |
 | 5 | Cycle time | [median days] days pull-to-signed | 90 / 30 / 14 for my band | [PASS/MISS] |
 | 6 | Success rate | [x]% of new customers hit X in 1 month | 95% | [PASS/MISS] |
