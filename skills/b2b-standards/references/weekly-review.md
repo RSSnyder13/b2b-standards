@@ -27,7 +27,7 @@ Format:
 ```
 1. Repeatable case study: [status] vs weird-not-to-buy test. PASS/MISS
 2. Pipeline: [n] first meetings/week vs [3/10/15]. PASS/MISS
-3. Pull: [n]/[n] first meetings pulled ([x]%) vs 80%. PASS/MISS
+3. Pull: [n]/[n] first meetings pulled ([x]%) vs 60%. PASS/MISS
 4. Close rate: [n]/[n] pull meetings closed ([x]%) vs 50%. PASS/MISS
 5. Cycle time: [median days] days vs [90/30/14]. PASS/MISS
 6. Success rate: X = [their X or "not named"]; [x]% hit X in 1 month vs 95%. PASS/MISS
@@ -35,7 +35,7 @@ Format:
 
 Rules:
 
-- **No softening.** "Close" is a MISS. "Trending well" is a MISS. 78% pull is a MISS.
+- **No softening.** "Close" is a MISS. "Trending well" is a MISS. 58% pull is a MISS.
 - **UNKNOWN is its own verdict.** Write "UNKNOWN, and that is the finding." Not knowing your close rate, or not knowing your X, usually means that is the problem, because you cannot run a factory around a number you cannot name.
 - **Five of six is a fail.** Say so plainly if they pass five: they have not met the standard.
 - Quote their own numbers back at them. The scorecard is what makes the bottleneck undeniable instead of a matter of opinion.
