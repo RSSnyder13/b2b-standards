@@ -17,7 +17,7 @@ You must hit **all six**. Five of six means you have not met the standard. Bars 
 5. **Cycle Time** — 90 / 30 / 14 days from meeting-with-pull to signed
 6. **Success Rate** — 95% of new customers hit X (your leading indicator of retention) within 1 month
 
-Read the full essay on [The Physics of Startups](https://thephysicsofstartups.substack.com).
+Read the full essay on [The Physics of Startups](https://open.substack.com/pub/thephysicsofstartups/p/the-b2b-standard-v1?r=9mtf7&utm_campaign=post&utm_medium=web&showWelcomeOnShare=true).
 
 ## What this skill does
 
