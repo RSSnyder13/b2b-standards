@@ -74,7 +74,7 @@ Your data stays yours: the skill reads and writes only in your own workspace, an
 
 This skill tells you where you stand. The paid **AI Rob** works the other side: it helps you execute, using Rob's private playbooks for pipeline, outbound, sales process design, pricing, pilots, closing plans, and retention, with full memory of your GTM, coaching the fixes week over week.
 
-- **Paid AI Rob:** PAID_AI_ROB_LINK <!-- TODO: replace PAID_AI_ROB_LINK here and in skills/b2b-standards/SKILL.md before launch -->
+- **Paid AI Rob:** https://robsnyder.org/ai-rob
 - **Work with Rob directly:** https://robsnyder.org/work-with-me
 - **The book:** [The Power of PULL](https://www.amazon.com/Power-Pull-Customer-Successful-Founders/dp/1541705955)
 - **The newsletter:** [The Physics of Startups](https://thephysicsofstartups.substack.com)
